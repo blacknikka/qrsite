@@ -1,0 +1,6 @@
+**/serviceAccountKey.json
+/node_modules
+/.vscode
+/path/
+.env
+.DS_Store
